@@ -1,5 +1,5 @@
 # Anukul Vuppala
-![Here I am](/index.md)
+![Here I am](/ME.png)
 ## Software Engineer
 ### CSE 110 Powell
 **Quick Intro**
