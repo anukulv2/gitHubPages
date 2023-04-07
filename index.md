@@ -12,7 +12,7 @@ Here is my [linkedin](https://www.linkedin.com/in/anukul-vuppala-8ab928166/)
 #### Hobbies
 
 One of my hobbies is basketball
-![Basketball](https://en.wikipedia.org/wiki/File:Basketball_Clipart.svg)
+![Basketball](https://upload.wikimedia.org/wikipedia/commons/7/72/Basketball_Clipart.svg)
 
 I love travelling
 Here are some places I have been:
