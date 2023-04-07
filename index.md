@@ -1,9 +1,11 @@
 # Anukul Vuppala
+![Here I am](/index.md)
 ## Software Engineer
 ### CSE 110 Powell
 **Quick Intro**
 I am a fourth year student passionate in computer science and hope to learn a lot in this class. A quote I like is below
 >Good things take time
+
 Here is my [linkedin](https://www.linkedin.com/in/anukul-vuppala-8ab928166/)
 [Here is the blank README, might be fun to look at](/README.md).
 
@@ -30,8 +32,8 @@ Here are my favorite to least favorite modes of transport:
 
 #### TO-DO List
 Here are a few things I have to do
-- [] Go on a run
-- [] Get a job
+- [ ] Go on a run
+- [ ] Get a job
 - [X] Finish this lab
 
 
