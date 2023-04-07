@@ -7,7 +7,7 @@ I am a fourth year student passionate in computer science and hope to learn a lo
 >Good things take time
 
 Here is my [linkedin](https://www.linkedin.com/in/anukul-vuppala-8ab928166/)
-And here is the blank [README](/README.md), might be fun to look at.
+And here is the nearly blank [README](/README.md), might be fun to look at.
 
 #### Hobbies
 
