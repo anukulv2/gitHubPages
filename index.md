@@ -7,12 +7,13 @@ I am a fourth year student passionate in computer science and hope to learn a lo
 >Good things take time
 
 Here is my [linkedin](https://www.linkedin.com/in/anukul-vuppala-8ab928166/)
-[Here is the blank README, might be fun to look at](/README.md).
+And here is the blank [README](/README.md), might be fun to look at.
 
 #### Hobbies
 
 One of my hobbies is basketball
-![Basketball](https://upload.wikimedia.org/wikipedia/commons/7/72/Basketball_Clipart.svg)
+
+![Basketball](/basketball.png)
 
 I love travelling
 Here are some places I have been:
